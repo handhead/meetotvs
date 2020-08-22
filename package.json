@@ -1,0 +1,9 @@
+{
+  "name": "meetotvs",
+  "version": "1.0.0",
+  "description": "Google Meet and TOTVS Integration",
+  "main": "index.js",
+  "repository": "https://github.com/handhead/meetotvs.git",
+  "author": "Vinícius Rodrigues",
+  "license": "MIT"
+}
